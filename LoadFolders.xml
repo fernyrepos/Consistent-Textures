@@ -4,5 +4,6 @@
     <li IfModActive="mlie.animalharvestingspot">Mods and Shit/Animal Harvesting Spot</li>
     <li IfModActive="scorpio.deathsentence">Mods and Shit/Death Sentence</li>
     <li IfModActive="adamas.hospital">Mods and Shit/Hospital</li>
+    <li IfModActive="nightmare.museums">Mods and Shit/Museums</li>
   </v1.6>
 </loadFolders>
