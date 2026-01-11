@@ -5,5 +5,7 @@
     <li IfModActive="scorpio.deathsentence">Mods and Shit/Death Sentence</li>
     <li IfModActive="adamas.hospital">Mods and Shit/Hospital</li>
     <li IfModActive="nightmare.museums">Mods and Shit/Museums</li>
+    <li IfModActive="memegoddess.runandgun">Mods and Shit/Run and Gun</li>  
+    <li IfModActive="memegoddess.searchanddestroy">Mods and Shit/Search and Destroy</li>  
   </v1.6>
 </loadFolders>
