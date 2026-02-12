@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>          
+<Patch>       
+
+        <Operation Class="PatchOperationReplace">
+            <xpath>Defs/ZzZomboRW.Commission.NuzzleGene.PeriodicNuzzleGeneDef[defName="ZzZomboRW_Commission_PeriodicNuzzleGene"]/iconPath</xpath>
+            <value>
+                <iconPath>NuzzleGene</iconPath>
+            </value>
+        </Operation>
+
+</Patch>
