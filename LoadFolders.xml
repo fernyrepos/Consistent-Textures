@@ -8,5 +8,8 @@
     <li IfModActive="memegoddess.runandgun">Mods and Shit/Run and Gun</li>  
     <li IfModActive="memegoddess.searchanddestroy">Mods and Shit/Search and Destroy</li>  
     <li IfModActive="zzzomborw.commission.nuzzlegene">Mods and Shit/Nuzzle Gene</li>  
+    <li IfModActive="memegoddess.giddyup">Mods and Shit/Giddy Up</li>  
+    <li IfModActive="east.geneextractorlog">Mods and Shit/Gene Extractor Log</li>  
+    <li IfModActive="font.mountpassengers">Mods and Shit/Mount Passengers</li>  
   </v1.6>
 </loadFolders>
